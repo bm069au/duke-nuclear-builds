@@ -1,4 +1,4 @@
-# Duke Nuclear Edition — private build backup
+# Duke Nuclear Edition — public build backup
 
 Backup dated 22 October 2026. Existing executable and installer last modified 20 October 2026, copied without rebuilding or running them.
 
@@ -12,4 +12,4 @@ GitHub Release backup-2026-10-22 contains:
 - Duke-Nuclear-Portable-2026-10-22.zip — executable, locally owned base game data, converted nuclear/weapon assets and GPL notice. Extract together; requires a compatible Windows runtime already present.
 - BUILD-MANIFEST.json and SHA256SUMS.txt — exact local sizes/dates/hashes.
 
-This private package includes original game/media files for personal recovery. It is separate from public source. Configuration, savegames, logs, caches and build intermediates are excluded. The old upstream installer/jfduke3d.nsi is not a verified recipe for the new installer; its modern source recipe was not located. Source-to-binary equivalence and fresh gameplay acceptance were not tested during this backup.
+This public package includes original game/media files and converted assets. The source code is maintained in the repositories linked above. Configuration, savegames, logs, caches and build intermediates are excluded. The old upstream installer/jfduke3d.nsi is not a verified recipe for the new installer; its modern source recipe was not located. Source-to-binary equivalence and fresh gameplay acceptance were not tested during this backup.
