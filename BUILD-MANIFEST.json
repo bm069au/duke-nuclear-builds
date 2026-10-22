@@ -1,0 +1,38 @@
+[
+  {
+    "name": "duke3d.exe",
+    "bytes": 1170944,
+    "lastWriteUtc": "2026-10-20T09:21:17.9683925Z",
+    "sha256": "cfde477644aa7f3bd755064bfcb13395bf48286a4f38e7dac9b015cd1823b43a"
+  },
+  {
+    "name": "Duke3D_Nuclear_Edition_Setup.exe",
+    "bytes": 21026816,
+    "lastWriteUtc": "2026-10-20T09:35:06.2814040Z",
+    "sha256": "eaebc14aef61379e33d8d8eb58215a3ccbd134161e32edcd1dad2fa1d50b824b"
+  },
+  {
+    "name": "DUKE3D.GRP",
+    "bytes": 44356548,
+    "lastWriteUtc": "2024-06-22T01:53:36.8702847Z",
+    "sha256": "53e2e04a9ca712a402ef35b616f035d9fd71d580e5721eff36f43983f61c0ad4"
+  },
+  {
+    "name": "DUKE.RTS",
+    "bytes": 188954,
+    "lastWriteUtc": "2024-06-22T01:53:57.3469945Z",
+    "sha256": "3fbc1d9b221f2a6952825a511ed63756f8eac4f98001eb094a81f17cb0fd05e5"
+  },
+  {
+    "name": "HBOMB2.VOC",
+    "bytes": 57505,
+    "lastWriteUtc": "2026-10-19T08:48:31.5475839Z",
+    "sha256": "1cb3cc4d6d01fb27cc4f59a1ef967c7d1557edc7c2fb2deb56adc9f5e7b808e0"
+  },
+  {
+    "name": "TILES014.ART",
+    "bytes": 609303,
+    "lastWriteUtc": "2026-10-20T07:11:32.4184954Z",
+    "sha256": "05ede5e2978b1fc11b076d941ebbc85e9ecdd3ad3f8640e0c049d91bc53030a5"
+  }
+]

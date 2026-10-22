@@ -1,0 +1,3 @@
+cfde477644aa7f3bd755064bfcb13395bf48286a4f38e7dac9b015cd1823b43a  duke3d.exe
+eaebc14aef61379e33d8d8eb58215a3ccbd134161e32edcd1dad2fa1d50b824b  Duke3D_Nuclear_Edition_Setup.exe
+a0fd1a4bbc545c922ee8afe5f05750b6b69b6a39427ebdcbb423bab0ef940a30  Duke-Nuclear-Portable-2026-10-22.zip
